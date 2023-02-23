@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<adminList>
+                
+    
+    
+    <admin>
+                                
+        
+        
+        <name>Admin</name>
+                                
+        
+        
+        <password>0</password>
+                            
+    
+    
+    </admin>
+            
+    
+
+
+    <admin>
+        <name>Nano</name>
+        <password>12345678</password>
+    </admin>
+</adminList>
